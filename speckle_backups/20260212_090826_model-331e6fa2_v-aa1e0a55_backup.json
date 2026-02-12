@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "projectId": "128262a20c",
+    "projectName": "CW26-Sessions",
+    "modelId": "331e6fa2fb",
+    "versionId": "aa1e0a5558",
+    "versionMessage": null,
+    "author": "Eleni Maglari",
+    "createdAt": "2026-02-12T14:08:25.617Z",
+    "backupTimestamp": "2026-02-12T09:08:26.248728",
+    "objectId": "994859dd7dc82534a99a01f4f8bcff31"
+  },
+  "object": {
+    "id": "994859dd7dc82534a99a01f4f8bcff31",
+    "speckleType": "Speckle.Core.Models.Collections.Collection",
+    "totalChildrenCount": null,
+    "data": {
+      "id": "994859dd7dc82534a99a01f4f8bcff31",
+      "name": "Unnamed document",
+      "units": "m",
+      "version": 3,
+      "elements": [
+        {
+          "__closure": null,
+          "referencedId": "4571a9ef0afa886612ce1da4c64b3656",
+          "speckle_type": "reference"
+        }
+      ],
+      "__closure": {
+        "35a762a3e387b95d02d4bdcaa70bc739": 4,
+        "39d600044f253b6a870d4bcf2a27935e": 4,
+        "4571a9ef0afa886612ce1da4c64b3656": 1,
+        "4feb70b49a9d50ebcf17392dea17d7e0": 3,
+        "8e59c522fd1ac89f9d721313bfc6382e": 2,
+        "e5029239e3844a5bb0cd41705a3171a2": 3
+      },
+      "colorProxies": [
+        {
+          "id": "288a2da013e1b378f214f98b2ab8cd28",
+          "name": null,
+          "value": -16777216,
+          "source": "object",
+          "objects": [
+            "212960d6-ad46-439d-8516-772ce85fde03"
+          ],
+          "speckle_type": "Speckle.Core.Models.Proxies.ColorProxy",
+          "applicationId": "color_Color [A=255, R=0, G=0, B=0]_object"
+        }
+      ],
+      "groupProxies": [],
+      "speckle_type": "Speckle.Core.Models.Collections.Collection",
+      "applicationId": null,
+      "collectionType": null,
+      "renderMaterialProxies": [],
+      "instanceDefinitionProxies": []
+    }
+  }
+}

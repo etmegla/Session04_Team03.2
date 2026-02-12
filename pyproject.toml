@@ -1,0 +1,11 @@
+[project]
+name = "session04-team03-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "specklepy>=3.2.3",
+    "gql[websockets]>=3.5.0",
+]
