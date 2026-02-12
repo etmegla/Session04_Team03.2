@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "projectId": "128262a20c",
+    "projectName": "CW26-Sessions",
+    "modelId": "331e6fa2fb",
+    "versionId": "4f7eb6ef19",
+    "versionMessage": null,
+    "author": "Eleni Maglari",
+    "createdAt": "2026-02-12T14:15:16.673Z",
+    "backupTimestamp": "2026-02-12T09:15:17.282306",
+    "objectId": "f64aea73814e72232f4e4ace951f5952"
+  },
+  "object": {
+    "id": "f64aea73814e72232f4e4ace951f5952",
+    "speckleType": "Speckle.Core.Models.Collections.Collection",
+    "totalChildrenCount": null,
+    "data": {
+      "id": "f64aea73814e72232f4e4ace951f5952",
+      "name": "Unnamed document",
+      "units": "m",
+      "version": 3,
+      "elements": [
+        {
+          "__closure": null,
+          "referencedId": "dd886b13aacc33281b2f4faf810a74da",
+          "speckle_type": "reference"
+        },
+        {
+          "__closure": null,
+          "referencedId": "f57df9bd14b3306a9aef2f75208376b6",
+          "speckle_type": "reference"
+        }
+      ],
+      "__closure": {
+        "1cad993d84879be13da0df8413fc637b": 4,
+        "27a1474dcf3379abce297b0782833fa9": 4,
+        "2b8051a0b4ca98d95925a3569fc50191": 3,
+        "32041396ad7b758fa7b653facafdc06e": 3,
+        "35a762a3e387b95d02d4bdcaa70bc739": 6,
+        "39d600044f253b6a870d4bcf2a27935e": 6,
+        "41ea6326f1399bb77ca9ad5e78efd24f": 2,
+        "45224cf2b30b9b3a74ebf5afec926947": 2,
+        "46a349f9a59d972a606dd7a6080c309c": 5,
+        "4feb70b49a9d50ebcf17392dea17d7e0": 5,
+        "541d08cd92a625564c754da4231a879c": 4,
+        "54abb9e990425f3382eb747e89cf8639": 5,
+        "58f39a6fe8dd662048f6a61165fa6765": 4,
+        "5b7b44f7dc4ec49ff51ea5b594fbf43d": 3,
+        "611009f17c4ec1bc148b4e2b67f6cc7c": 3,
+        "7b048f12c7f861307cf3a96a212c4f57": 2,
+        "8e59c522fd1ac89f9d721313bfc6382e": 2,
+        "95a8807e2e3ea2034ef25a9ee5d53927": 4,
+        "a581a9b8d235b2fed44933632f1ca412": 6,
+        "ab206d0056d11b3ed91643e350e9c5db": 6,
+        "c775a92522a5d200b3204e342333b98d": 3,
+        "dd886b13aacc33281b2f4faf810a74da": 1,
+        "e4e501857b61b72f2c3a2b8b4ec64695": 2,
+        "e5029239e3844a5bb0cd41705a3171a2": 3,
+        "e76ed0372a741add67f03fdd39534953": 4,
+        "efb566f5dd852d37fe0be86b15e08084": 3,
+        "f2353baa9859b679bf347888804112bd": 5,
+        "f57df9bd14b3306a9aef2f75208376b6": 1
+      },
+      "colorProxies": [
+        {
+          "id": "f4995b6d56522cb3066d86812535bb5f",
+          "name": null,
+          "value": -16777216,
+          "source": "object",
+          "objects": [
+            "212960d6-ad46-439d-8516-772ce85fde03",
+            "7c06f068-ebcb-4e1b-8228-21cb5373c194",
+            "14e9c827-241e-4152-82c8-62cfa44d2c77",
+            "84acf38a-3c83-4576-98f7-806b53d393e1"
+          ],
+          "speckle_type": "Speckle.Core.Models.Proxies.ColorProxy",
+          "applicationId": "color_Color [A=255, R=0, G=0, B=0]_object"
+        }
+      ],
+      "groupProxies": [],
+      "speckle_type": "Speckle.Core.Models.Collections.Collection",
+      "applicationId": null,
+      "collectionType": null,
+      "renderMaterialProxies": [],
+      "instanceDefinitionProxies": []
+    }
+  }
+}
